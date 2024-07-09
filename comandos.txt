@@ -1,0 +1,23 @@
+Configuração
+git config --global user.name "Gabriel"
+git config --global user.email "gabriel.sequenzia@oulook.com"
+
+Inicializando o git
+git init
+
+Adicionar arquivos e salvar
+git add .
+git commit -m "comentario"
+
+Adicionar repositorio remoto
+git remote add origin link do github
+
+Enviar
+git push -u origin main
+
+Triade
+git add .
+gut commit -m
+git push
+
+
